@@ -4,7 +4,7 @@ from sys import exit
 
 parser = argparse.ArgumentParser(description='Pray to your deity you insignificant creation')
 parser.add_argument('-v','--verses', help='Number of verses, keep in mind too many will will make it repeat', default=3)
-parser.add_argument('-i','--irreverent', help='do not use exif/raw metadata to calculate creation date', default=False, action='store_true')
+parser.add_argument('-i','--irreverent', help='make it BAD', default=False, action='store_true')
 parser.add_argument('-d', '--deity', help='Choose your deity', default='Yaweh')
 parser.add_argument('-p', '--personal', help='Make it personal', default=False,action='store_true')
 
