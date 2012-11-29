@@ -1,0 +1,60 @@
+fixed:
+
+  open:
+    address:
+      neuteral:
+        - Dear
+        - Dearest
+        - Wonderful
+      personal:
+        - My
+      group:
+        - Our
+        - Our Dear
+
+    intro_prefix:
+      -
+      - Once again
+
+    intro_grovel:
+      -
+      - humbly
+      - unworthily
+
+    intro_grovel_suffix:
+      - bow before
+      - come before
+      - approach
+      - beseech
+
+
+
+general:
+    deity_prefix:
+      -
+      - Heavenly Father
+      - Father
+      - Merciful
+      - Loving
+      - Gracious
+      - Just
+      - God
+
+    sentence_start:
+        -
+        - would like to
+        - wish to
+        - want to
+        - humbly
+
+    sentence_start_suffix:
+      reactive:
+        - ask
+        - request
+        - beg
+      proactive:
+        - thank
+        -
+
+
+
